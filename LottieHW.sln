@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LottieHW.Android", "LottieHW\LottieHW.Android\LottieHW.Android.csproj", "{B88484B5-8EDE-444B-88C4-667ED13628BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LottieHW", "LottieHW\LottieHW\LottieHW.csproj", "{A7CFC008-2D84-4191-A872-6533010E7303}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B88484B5-8EDE-444B-88C4-667ED13628BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B88484B5-8EDE-444B-88C4-667ED13628BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B88484B5-8EDE-444B-88C4-667ED13628BE}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{B88484B5-8EDE-444B-88C4-667ED13628BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B88484B5-8EDE-444B-88C4-667ED13628BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B88484B5-8EDE-444B-88C4-667ED13628BE}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{A7CFC008-2D84-4191-A872-6533010E7303}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7CFC008-2D84-4191-A872-6533010E7303}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7CFC008-2D84-4191-A872-6533010E7303}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7CFC008-2D84-4191-A872-6533010E7303}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6D0B45B6-0B50-4F9E-86D5-3ACF82565104}
+	EndGlobalSection
+EndGlobal

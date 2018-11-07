@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:forms="clr-namespace:Lottie.Forms;assembly=Lottie.Forms"
+             xmlns:local="clr-namespace:LottieHW"
+             x:Class="LottieHW.MainPage">
+
+    <StackLayout>
+        <!-- Place new controls here -->
+        <Label Text="Welcome to Xamarin.Forms!" 
+           HorizontalOptions="Start"
+           VerticalOptions="StartAndExpand" />
+        
+    <forms:AnimationView x:Name="AnimationView"
+        Animation="star_success_.json"
+        Loop="True"
+        AutoPlay="True"
+        VerticalOptions="Center"
+        HorizontalOptions="Center"
+        IsEnabled="True"
+        IsVisible="True"/>
+        
+    </StackLayout>
+
+
+</ContentPage>
